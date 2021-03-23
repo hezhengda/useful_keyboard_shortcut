@@ -19,7 +19,8 @@ Vim
 Vim is a really powerful editor and it can boost your productivity dramatically. Here are some shortcuts which I find really useful.
 
 * Replace a word in the selected part
-  * First 
+  * First we use visualize mode to choose the part that we want to modify (press `v` in the normal mode)
+  * Then use `:s/\%V{str1}/{replace_str}/g` to make sure all the matching strings are replaced
 
 Roam Research
 ---------------
