@@ -13,6 +13,14 @@ The most commonly used keyboard shortcut of `vimium` is summarized in below:
 * `shift + f`: show all the possible links that we can click into; then type `esc` it will disappear.
 * `shift + t`: show all the tabs that is currently open, and you can search the tab that you want to jump to.
 
+Vim
+-----
+
+Vim is a really powerful editor and it can boost your productivity dramatically. Here are some shortcuts which I find really useful.
+
+* Replace a word in the selected part
+  * First 
+
 Roam Research
 ---------------
 
